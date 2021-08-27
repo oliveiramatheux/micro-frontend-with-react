@@ -1,10 +1,10 @@
-# Back-end service: Web site social network for book exchange
+# Micro front end with react example
 
 #### Back-end service para web site, plataforma Rede social para troca de livros
 
-- 💬 Descrição e objetivo: Criar um serviço para o front-end, faz a comunicação com o banco de dados, fornece e armazena informações.
+- 💬 Descrição e objetivo: Aprender a arquitetura de Micro Front-end com Webpack
 
-#### 🚧 Status do Projeto 🚀 Em andamento, início dia 11/05/2021 🚧
+#### 🚧 Status do Projeto 🚀 Em andamento, início dia 26/08/2021 🚧
 
 # Tabela de conteúdos
 
